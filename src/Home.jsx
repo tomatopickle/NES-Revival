@@ -41,7 +41,7 @@ function App() {
         <br />
         <div id="cards">
           {filteredGames.map((game, index) => (
-            <a key={index} href={`/game?title=${game.name}`}>
+            <a key={index} href={`/NES-Revival/game?title=${game.name}`}>
               <div className="cardParent">
                 <div className="card">
                   <img
