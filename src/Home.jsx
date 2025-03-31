@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
+
 import "./App.css";
 import cartridgeImage from "./assets/cartridge.webp";
 
@@ -41,7 +43,11 @@ function App() {
         <br />
         <div id="cards">
           {filteredGames.map((game, index) => (
-            <a key={index} href={`/NES-Revival/game?title=${game.name}`}>
+            <Link
+              to={`game?title=${game.name}`}
+              key={index}
+              // href={`/NES-Revival/`}
+            >
               <div className="cardParent">
                 <div className="card">
                   <img
@@ -59,7 +65,7 @@ function App() {
                   <span className="is-dark">{game.genres[0]}</span>
                 </div>
               </div>
-            </a>
+            </Link>
           ))}
         </div>
       </div>
