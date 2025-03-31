@@ -1,0 +1,917 @@
+[
+  {
+    "name": "Adventure Island II",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Adventures of Lolo",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Adventures of Rad Gravity, The",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Aladdin",
+    "version": "Unl",
+    "tag": ""
+  },
+  {
+    "name": "Bad Dudes",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Balloon Fight",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Batman - The Video Game",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Battle of Olympus, The",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "BattleCity",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Battletoads",
+    "version": "Japan",
+    "tag": "Battletoads"
+  },
+  {
+    "name": "Battletoads-Double Dragon",
+    "version": "USA",
+    "tag": "Battletoads"
+  },
+  {
+    "name": "Binary Land",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Bionic Commando",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Bomberman",
+    "version": "USA",
+    "tag": "Bomberman"
+  },
+  {
+    "name": "Bomberman - Two Player Mod",
+    "version": "Unl",
+    "tag": "Bomberman"
+  },
+  {
+    "name": "Bubble Bobble",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Bucky O'Hare",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "BurgerTime",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Cabal",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Captain Skyhawk",
+    "version": "USA, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Akumajou Densetsu",
+    "version": "Japan",
+    "tag": "Castlevania"
+  },
+  {
+    "name": "Castlevania",
+    "version": "USA, Rev 1",
+    "tag": "Castlevania"
+  },
+  {
+    "name": "Castlevania II - Simon's Quest",
+    "version": "USA",
+    "tag": "Castlevania"
+  },
+  {
+    "name": "Chip 'n Dale - Rescue Rangers",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Chou-Wakusei Senki - MetaFight",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Circus Charlie",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Clash at Demonhead",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Commando",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Contra",
+    "version": "Japan",
+    "tag": "Contra"
+  },
+  {
+    "name": "Contra Force",
+    "version": "USA",
+    "tag": "Contra"
+  },
+  {
+    "name": "Super Contra",
+    "version": "Japan",
+    "tag": "Contra"
+  },
+  {
+    "name": "Crisis Force",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Crystalis",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Darkwing Duck",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Deadpool",
+    "version": "Unl",
+    "tag": ""
+  },
+  {
+    "name": "Die Hard",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Dig Dug",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Donkey Kong",
+    "version": "World, Rev 1",
+    "tag": "Donkey Kong"
+  },
+  {
+    "name": "Donkey Kong Jr.",
+    "version": "World, Rev 1",
+    "tag": "Donkey Kong"
+  },
+  {
+    "name": "Double Dragon",
+    "version": "USA",
+    "tag": "Double Dragon"
+  },
+  {
+    "name": "Double Dragon - Two Player Mod",
+    "version": "Unl",
+    "tag": "Double Dragon"
+  },
+  {
+    "name": "Double Dragon II - The Revenge",
+    "version": "USA, Rev 1",
+    "tag": "Double Dragon"
+  },
+  {
+    "name": "Dragon Spirit - The New Legend",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "DuckTales",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Elevator Action",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Faxanadu",
+    "version": "USA, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Felix the Cat",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Fire 'n Ice",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Flintstones, The - The Rescue of Dino & Hoppy",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "G.I. Joe - A Real American Hero",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Gargoyle's Quest II",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Ghosts'n Goblins",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Gimmick!",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Goonies",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Guardian Legend, The",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Guerrilla War",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Gun Nac",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Gun.Smoke",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Hebereke",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Ice Climber",
+    "version": "USA, Europe, Korea, En",
+    "tag": ""
+  },
+  {
+    "name": "Jackal",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Journey to Silius",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "KickMaster",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Kid Icarus",
+    "version": "USA, Europe, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Kirby's Adventure",
+    "version": "USA, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Kung Fu",
+    "version": "Japan, USA, En",
+    "tag": ""
+  },
+  {
+    "name": "Crash 'n' the Boys - Street Challenge",
+    "version": "USA",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai",
+    "version": "Japan",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou!",
+    "version": "Japan",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou",
+    "version": "Japan",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Kunio-kun no Nekketsu Soccer League",
+    "version": "Japan",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Nekketsu Kakutou Densetsu",
+    "version": "Japan",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Nekketsu! Street Basket - Ganbare Dunk Heroes",
+    "version": "Japan",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "River City Ransom",
+    "version": "USA",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Super Dodge Ball",
+    "version": "USA",
+    "tag": "Kunio-kun (mostly sports)"
+  },
+  {
+    "name": "Legend of Kage, The",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Lemmings",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Life Force",
+    "version": "USA, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Little Mermaid, The",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Little Nemo - The Dream Master",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Little Samson",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Lode Runner",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Mad City",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Magic of Scheherazade, The",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Maniac Mansion",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Mappy",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Marble Madness",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Celeste Mario's Zap & Dash!",
+    "version": "Unl",
+    "tag": "Mario"
+  },
+  {
+    "name": "Dr. Mario",
+    "version": "Japan, USA, En, Rev 1",
+    "tag": "Mario"
+  },
+  {
+    "name": "Mario Bros.",
+    "version": "World",
+    "tag": "Mario"
+  },
+  {
+    "name": "Super Mario Bros.",
+    "version": "World",
+    "tag": "Mario"
+  },
+  {
+    "name": "Super Mario Bros. - Two Player Mod",
+    "version": "Unl",
+    "tag": "Mario"
+  },
+  {
+    "name": "Super Mario Bros. 2",
+    "version": "USA, Rev 1",
+    "tag": "Mario"
+  },
+  {
+    "name": "Super Mario Bros. 3",
+    "version": "USA, Rev 1",
+    "tag": "Mario"
+  },
+  {
+    "name": "Mega Man",
+    "version": "USA",
+    "tag": "Mega Man"
+  },
+  {
+    "name": "Mega Man 2",
+    "version": "USA",
+    "tag": "Mega Man"
+  },
+  {
+    "name": "Mega Man 3",
+    "version": "USA",
+    "tag": "Mega Man"
+  },
+  {
+    "name": "Mega Man 4",
+    "version": "USA, Rev 1",
+    "tag": "Mega Man"
+  },
+  {
+    "name": "Mega Man 5",
+    "version": "USA",
+    "tag": "Mega Man"
+  },
+  {
+    "name": "Mega Man 6",
+    "version": "USA",
+    "tag": "Mega Man"
+  },
+  {
+    "name": "Metal Gear",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Metal Storm",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Metroid",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Mickey Mousecapade",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Mighty Final Fight",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Moai-kun",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Ms. Pac-Man",
+    "version": "USA, Tengen, Unl",
+    "tag": ""
+  },
+  {
+    "name": "Ninja Gaiden",
+    "version": "USA",
+    "tag": "Ninja Gaiden"
+  },
+  {
+    "name": "Ninja Gaiden II - The Dark Sword of Chaos",
+    "version": "USA",
+    "tag": "Ninja Gaiden"
+  },
+  {
+    "name": "Ninja Gaiden III - The Ancient Ship of Doom",
+    "version": "USA",
+    "tag": "Ninja Gaiden"
+  },
+  {
+    "name": "North and South",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Nuts & Milk",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Over Horizon",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Paperboy",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Pirates!",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Ninja Crusaders",
+    "version": "USA",
+    "tag": "Play this game two player!"
+  },
+  {
+    "name": "Popeye",
+    "version": "World, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Power Blade",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Prince of Persia",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Princess Tomato in the Salad Kingdom",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Cobra Triangle",
+    "version": "USA",
+    "tag": "Racing"
+  },
+  {
+    "name": "Excitebike",
+    "version": "Japan, USA, En",
+    "tag": "Racing"
+  },
+  {
+    "name": "F1 Race",
+    "version": "Japan",
+    "tag": "Racing"
+  },
+  {
+    "name": "Galaxy 5000 - Racing in the 51st Century",
+    "version": "USA",
+    "tag": "Racing"
+  },
+  {
+    "name": "Ivan 'Ironman' Stewart's Super Off Road",
+    "version": "USA",
+    "tag": "Racing"
+  },
+  {
+    "name": "Kekkyoku Nankyoku Daibouken",
+    "version": "Japan, Rev 1",
+    "tag": "Racing"
+  },
+  {
+    "name": "Micro Machines",
+    "version": "USA, Unl",
+    "tag": "Racing"
+  },
+  {
+    "name": "R.C. Pro-Am",
+    "version": "USA, Rev 1",
+    "tag": "Racing"
+  },
+  {
+    "name": "Rad Racer",
+    "version": "USA",
+    "tag": "Racing"
+  },
+  {
+    "name": "Road Fighter",
+    "version": "Japan",
+    "tag": "Racing"
+  },
+  {
+    "name": "Radia Senki - Reimei Hen",
+    "version": "Japan",
+    "tag": ""
+  },
+  {
+    "name": "Rampage",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Rampart",
+    "version": "USA, Jaleco",
+    "tag": ""
+  },
+  {
+    "name": "Rescue - The Embassy Mission",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Robin Hood - Prince of Thieves",
+    "version": "USA, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Rollergames",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Rush'n Attack",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Rygar",
+    "version": "USA, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "S.C.A.T. - Special Cybernetic Attack Team",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Shadow of the Ninja",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Shadowgate",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Shatterhand",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Smash T.V.",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Snake Rattle n Roll",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "version": "Unl",
+    "tag": ""
+  },
+  {
+    "name": "Spelunker",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Blades of Steel",
+    "version": "USA",
+    "tag": "Sports"
+  },
+  {
+    "name": "Captain Tsubasa II - Super Striker",
+    "version": "Japan",
+    "tag": "Sports"
+  },
+  {
+    "name": "Double Dribble",
+    "version": "USA, Rev 1",
+    "tag": "Sports"
+  },
+  {
+    "name": "Ice Hockey",
+    "version": "USA",
+    "tag": "Sports"
+  },
+  {
+    "name": "Mike Tyson's Punch-Out!!",
+    "version": "Japan, USA, En, Rev 1",
+    "tag": "Sports"
+  },
+  {
+    "name": "Pro Wrestling",
+    "version": "USA, Rev 1",
+    "tag": "Sports"
+  },
+  {
+    "name": "Ski or Die",
+    "version": "USA",
+    "tag": "Sports"
+  },
+  {
+    "name": "Soccer",
+    "version": "Japan, USA, En",
+    "tag": "Sports"
+  },
+  {
+    "name": "Softball Tengoku",
+    "version": "Japan",
+    "tag": "Sports"
+  },
+  {
+    "name": "Super Spike V'Ball",
+    "version": "USA",
+    "tag": "Sports"
+  },
+  {
+    "name": "Tecmo Super Bowl",
+    "version": "USA",
+    "tag": "Sports"
+  },
+  {
+    "name": "Tecmo World Wrestling",
+    "version": "USA",
+    "tag": "Sports"
+  },
+  {
+    "name": "Tennis",
+    "version": "Japan, USA, En",
+    "tag": "Sports"
+  },
+  {
+    "name": "Track & Field",
+    "version": "USA",
+    "tag": "Sports"
+  },
+  {
+    "name": "StarTropics",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Street Fighter 2010 - The Final Fight",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Street Fighter II",
+    "version": "Unl",
+    "tag": ""
+  },
+  {
+    "name": "Strider",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Super Pitfall",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Tetris",
+    "version": "USA",
+    "tag": "Tetris"
+  },
+  {
+    "name": "Tetris - Two Player Mod",
+    "version": "Unl",
+    "tag": "Tetris"
+  },
+  {
+    "name": "Tiny Toon Adventures",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles - Tournament Fighters",
+    "version": "USA",
+    "tag": "TMNT"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles II - The Arcade Game",
+    "version": "USA",
+    "tag": "TMNT"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles III - The Manhattan Project",
+    "version": "USA",
+    "tag": "TMNT"
+  },
+  {
+    "name": "Urban Champion",
+    "version": "World",
+    "tag": ""
+  },
+  {
+    "name": "Vice - Project Doom",
+    "version": "USA",
+    "tag": ""
+  },
+  {
+    "name": "Wizards & Warriors",
+    "version": "USA, Rev 1",
+    "tag": ""
+  },
+  {
+    "name": "Wrecking Crew",
+    "version": "World",
+    "tag": ""
+  },
+  {
+    "name": "Yie Ar Kung-Fu",
+    "version": "Japan, Rev 1.4",
+    "tag": ""
+  },
+  {
+    "name": "Duck Hunt",
+    "version": "World",
+    "tag": "Zapper"
+  },
+  {
+    "name": "Hogan's Alley",
+    "version": "World",
+    "tag": "Zapper"
+  },
+  {
+    "name": "Wild Gunman",
+    "version": "World, Rev 1",
+    "tag": "Zapper"
+  },
+  {
+    "name": "Legend of Zelda, The",
+    "version": "USA, Rev 1",
+    "tag": "Zelda"
+  },
+  {
+    "name": "The Legend of Zelda - Ancient Dungeon",
+    "version": "Unl",
+    "tag": "Zelda"
+  },
+  {
+    "name": "Zelda II - The Adventure of Link",
+    "version": "USA",
+    "tag": "Zelda"
+  },
+  {
+    "name": "Zen - Intergalactic Ninja",
+    "version": "USA",
+    "tag": ""
+  }
+]
