@@ -7,7 +7,7 @@ function App() {
   const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
-    fetch("http://nes-revival-server.onrender.com/games")
+    fetch("https://nes-revival-server.onrender.com/games")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Network response was not ok");

@@ -16,7 +16,7 @@ class Game extends Component {
 
   componentDidMount() {
     this.handleDownloadAndRun(
-      `http://nes-revival-server.onrender.com/games/${location.search.replace(
+      `https://nes-revival-server.onrender.com/games/${location.search.replace(
         "?title=",
         ""
       )}/rom`
