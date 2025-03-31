@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Emulator from "./jsnes/Emulator";
 import "./game.css";
 import Controller from "./components/controller";
+import { Link } from "react-router-dom";
 
 class Game extends Component {
   state = {
@@ -78,9 +79,9 @@ class Game extends Component {
           ) : romData ? (
             <div className="crt-container">
               <Emulator romData={romData} paused={paused} />
-              <a href="/" id="powerButton">
+              <Link to="../" id="powerButton">
                 POWER
-              </a>
+              </Link>
             </div>
           ) : (
             <p>Loading ROM, please wait...</p>
