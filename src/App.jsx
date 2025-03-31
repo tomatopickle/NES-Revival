@@ -6,7 +6,7 @@ import Game from "./Game";
 
 const App = () => {
   return (
-    <HashRouter>
+    <HashRouter basename='/NES-Revival'>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/game" element={<Game />} />
